@@ -37,4 +37,4 @@ This project bypasses the standard Android Wi-Fi management framework by utilizi
 Clone the repository and open it in Android Studio:
 
 ```bash
-git clone [https://github.com/ASHANTENNA/BlissNetwork.git](https://github.com/ASHANTENNA/BlissNetwork.git)
+git clone https://github.com/ASHANTENNA/BlissNetwork.git
